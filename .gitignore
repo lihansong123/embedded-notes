@@ -1,0 +1,22 @@
+# 系统与编辑器垃圾
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Office 临时文件（周报/简历）
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Obsidian（若用它做笔记库，本地配置不入库）
+.obsidian/workspace*.json
+
+# 导出的临时文件
+*.tmp
+*_bak.md
